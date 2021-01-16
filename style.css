@@ -1,0 +1,41 @@
+
+.nav-wrapper { 
+  background: linear-gradient(to right,rgb(239, 241, 239), rgb(61, 45, 207)); 
+} 
+
+.navbar-fixed { 
+  background: linear-gradient(to right,rgb(239, 241, 239), rgb(61, 45, 207)); 
+} 
+
+
+.section{ 
+  background: linear-gradient(to right,rgb(243, 247, 243), rgb(61, 45, 207)); 
+} 
+
+.card-content{
+  background-image: url("img_1.jpg");
+}
+
+.sidenav{
+  background: linear-gradient(to right,rgb(243, 247, 243) ,rgb(243, 247, 243) , rgb(113, 100, 233));
+}
+
+.dropdown-content{
+  background: linear-gradient(to right,rgb(243, 247, 243) ,rgb(243, 247, 243) , rgb(113, 100, 233));
+}
+.brand-logo {
+      margin-left: 20px;
+      bottom: 10px;
+      top: 5px;
+}
+
+
+
+
+
+
+<label for="check1">Name</label>
+<input type="checkbox" name="" id="check2">
+<label for="check2">Name</label>
+<input type="checkbox" name="" id="check3">
+<label for="check3">Name</label>
